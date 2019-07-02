@@ -1,0 +1,12 @@
+C:\Users\MISAEL\Desktop\AdopcionSingleton\AdopcionSingleton\bin\Debug\AdopcionSingleton.exe.config
+C:\Users\MISAEL\Desktop\AdopcionSingleton\AdopcionSingleton\bin\Debug\AdopcionSingleton.exe
+C:\Users\MISAEL\Desktop\AdopcionSingleton\AdopcionSingleton\bin\Debug\AdopcionSingleton.pdb
+C:\Users\MISAEL\Desktop\AdopcionSingleton\AdopcionSingleton\obj\Debug\AdopcionSingleton.csprojResolveAssemblyReference.cache
+C:\Users\MISAEL\Desktop\AdopcionSingleton\AdopcionSingleton\obj\Debug\AdopcionSingleton.exe
+C:\Users\MISAEL\Desktop\AdopcionSingleton\AdopcionSingleton\obj\Debug\AdopcionSingleton.pdb
+C:\Users\MISAEL\Desktop\Yisell\AdopcionSingleton\AdopcionSingleton\bin\Debug\AdopcionSingleton.exe.config
+C:\Users\MISAEL\Desktop\Yisell\AdopcionSingleton\AdopcionSingleton\obj\Debug\AdopcionSingleton.exe
+C:\Users\MISAEL\Desktop\Yisell\AdopcionSingleton\AdopcionSingleton\bin\Debug\AdopcionSingleton.exe
+C:\Users\MISAEL\Desktop\Yisell\AdopcionSingleton\AdopcionSingleton\bin\Debug\AdopcionSingleton.pdb
+C:\Users\MISAEL\Desktop\Yisell\AdopcionSingleton\AdopcionSingleton\obj\Debug\AdopcionSingleton.csprojResolveAssemblyReference.cache
+C:\Users\MISAEL\Desktop\Yisell\AdopcionSingleton\AdopcionSingleton\obj\Debug\AdopcionSingleton.pdb
